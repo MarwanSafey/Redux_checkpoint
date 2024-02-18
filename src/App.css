@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  color: blue;
+}
+
+button {
+  border-radius: 5px;
+  color: red;
+  background-color: beige;
+  font-weight: bold;
+}
+
+.filter {
+  font-weight: bold;
+}
